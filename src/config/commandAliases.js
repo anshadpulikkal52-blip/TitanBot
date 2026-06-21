@@ -24,6 +24,8 @@ export const commandAliases = {
     'help': 'help',
     'h': 'help',
     'info': 'help',
+    'play': 'join',
+    
 
     'ban': 'ban',
     'kick': 'kick',
